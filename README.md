@@ -1,2 +1,2 @@
-# Hello! I'm Kelly! Full Stack Developer.
+# Hello! I'm Kelly! Front-End Developer.
 
